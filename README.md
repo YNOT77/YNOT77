@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👨‍💻 All of my projects are available at [https://anthony-moran.netlify.app/](https://anthony-moran.netlify.app/)
+
+- 📫 How to reach me **anthonymoran.dev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anthonym_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthonym_77" height="30" width="40" /></a>
